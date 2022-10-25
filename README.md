@@ -1,2 +1,2 @@
 # 8puzzle
-Solver for n*n-puzzle using A* algorithm
+Solver for n\*n-puzzle using A* algorithm
