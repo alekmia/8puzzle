@@ -1,5 +1,5 @@
 # 8puzzle
-Solver for n\*n-puzzle using A* algorithm
+Solver for n\*n-Board puzzle using A* algorithm
 
 ## How to use:
 1. Download the files and open where you prefer
